@@ -13,12 +13,20 @@ Implementación digital del clásico juego de cartas UNO, desarrollado completam
 * **Entorno de Desarrollo (IDE):** Apache NetBeans
 
 ## Vista del Juego
-Selección de la cantidad de jugadores
+Selección de la cantidad de jugadores.
+
 <img width="920" height="455" alt="image" src="https://github.com/user-attachments/assets/2285950d-de05-4c9c-8101-d9faf3b72ebf" />
-Turno del primer jugador en donde se visualiza su mazo, la primera carta, contador de cartas y el mazo para robar
+
+Turno del primer jugador en donde se visualiza su mazo, la primera carta, contador de cartas y el mazo para robar.
+
 <img width="1079" height="678" alt="image" src="https://github.com/user-attachments/assets/09d8bfaa-f082-4957-a8fd-00384b456faa" />
+
 Pantalla de transición entre turnos para ocultar las cartas del jugador anterior y mantener la integridad del juego en modo multijugador local.
+
 <img width="1079" height="661" alt="image" src="https://github.com/user-attachments/assets/0e86562a-cdb7-4f23-93cf-2128fb3ff56b" />
+
 <img width="1079" height="653" alt="image" src="https://github.com/user-attachments/assets/773d9f11-e333-4c5a-87d6-95f6239509a0" />
+
 <img width="1079" height="661" alt="image" src="https://github.com/user-attachments/assets/afbf062c-a02d-4a81-adb0-786b5367472f" />
+
 <img width="1079" height="659" alt="image" src="https://github.com/user-attachments/assets/b293ef7a-991d-4c1e-9c4c-96ca8dfaefc4" />
